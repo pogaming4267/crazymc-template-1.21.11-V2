@@ -12,12 +12,12 @@ public class CrazyMC implements ModInitializer {
 	public static final String MOD_ID = "crazymc";
 
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
-	public static void initialize(){
-			ItemGroupEvents.modifyEntriesEvent(CreativeModeTabs.COMBAT)
-				.register((itemGroup)-> itemGroup.accept(ModItems.BOB));
-	}
+
 	@Override
 	public void onInitialize() {
+		ModItems.initialize();
+
+
 
 		LOGGER.info("Hello Fabric world!");
 	}
