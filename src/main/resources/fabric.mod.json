@@ -3,9 +3,9 @@
 	"id": "crazymc",
 	"version": "${version}",
 	"name": "CrazyMC",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A crazy experience",
 	"authors": [
-		"Me!"
+		"Pogaming4267"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
