@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:gunpowder",
+    "minecraft:coal"
+  ],
+  "result": {
+    "id": "crazymc:bob",
+    "count": 1
+  }
+}

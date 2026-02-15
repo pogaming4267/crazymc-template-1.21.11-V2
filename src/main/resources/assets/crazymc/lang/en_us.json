@@ -1,3 +1,6 @@
 {
-  "item.crazymc.bob": "BOB"
+  "item.crazymc.bob": "BOB",
+  "item.crazymc.op_sword": "OP_SWORD",
+  "item.crazymc.guidite_sword": "GUIDITE_SWORD",
+  "enchantment.example-mod.thundering": "Thundering"
 }
